@@ -1,0 +1,5 @@
+model,tol,share_le_tol,target,PASS
+DummyMean,0.15,0.3725,0.8,NO
+LinearRegression,0.15,0.52,0.8,NO
+RidgeCV,0.15,0.5175,0.8,NO
+RandomForest,0.15,0.4575,0.8,NO
